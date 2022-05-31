@@ -160,11 +160,11 @@
   display: none;
 }
 
-.task__edit-mode .task__input {
+.task_edit-mode .task__input {
   display: inline-block;
   width: 224px;
 }
 
-.task__edit-mode .task__label {
+.task_edit-mode .task__label {
   display: none;
 }
